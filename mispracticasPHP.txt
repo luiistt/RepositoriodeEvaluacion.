@@ -1,0 +1,40 @@
+
+1-lenguaje php:
+se explica lo del lenguaje php
+actividad:
+*escribe tu nombre y tus apellidos por lineas.
+*escribe tu fecha de nacimiento usando el DD -MMM Y AAAA
+*Escribe una lista de 5 cosas que te gusten
+
+
+2-creando el primer programa en php:
+hicimos nuestro primer codigo en php usando el "hola mundo
+: actividad 
+modifica este programa para que muestre una serie de mensajes en el sitio empleando el comando echo.
+
+
+
+mi nombre es
+ mi edad es 
+mi hobbie es 
+el profe que me cae mal es:
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+define Requisitos: Decide las funciones (catálogo, carrito).
+configura Entorno: Usa XAMPP/MAMP.
+crea Base de Datos: Define tablas (productos, usuarios).
+estructura Proyecto: Archivos como index.php, carrito.php.
+desarrolla Funcionalidades: Conexión a DB, CRUD, autenticación.
+nterfaz de Usuario: Usa HTML y CSS.
+prueba y despliega: Verifica y sube al servidor.
